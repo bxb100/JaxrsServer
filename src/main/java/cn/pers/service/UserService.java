@@ -12,8 +12,8 @@ import java.util.List;
  * @author Lemon
  * JSON 或者是 XML MIMEType
  */
-@Path("/userService")
-@Produces("*/*")
+//@Path("/userService")
+//@Produces("*/*")
 public interface UserService {
 
     @POST
